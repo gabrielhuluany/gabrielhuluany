@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Gabriel 😎
 *Um pouco sobre mim:*
 - Tenho 19 anos
-- Já trabalhei como freelancer e aprendi muito com essa experiência
 - Adoro estudar e trabalhar com front-end!
+- Já trabalhei como freelancer e aprendi muito com essa experiência
 - 💼 Estagiário de TI no INSS
 - 🎓 Técnico em Informática
 - 💻 Ciência da Computação - UAM
