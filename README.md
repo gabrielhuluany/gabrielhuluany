@@ -7,7 +7,7 @@
 - 💼 Estagiário de TI no INSS
 - 🎓 Técnico em Informática
 - 💻 Ciência da Computação - UAM
-- 📚 Aprendendo React
+- 📚 Aprendendo React e Python
 - 🔗 Meu portfólio: [gabrielhuluany.com.br](https://gabrielhuluany.com.br)
 
 <!--- ⚡ Fun fact: ...-->
