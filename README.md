@@ -1,5 +1,4 @@
-# Olá! Eu sou o Gabriel 😎
-### Meu portfólio: [gabrielhuluany.com.br](https://gabrielhuluany.com.br)
+### Olá! Eu sou o Gabriel 😎
 *Um pouco sobre mim:*
 - Tenho 19 anos
 - Adoro estudar e trabalhar com front-end!
@@ -8,7 +7,7 @@
 - 🎓 Técnico em Informática
 - 💻 Ciência da Computação - UAM
 - 📚 Aprendendo React
-<!--- 🔗 Meu portfólio: [gabrielhuluany.com.br](https://gabrielhuluany.com.br)-->
+- 🔗 Meu portfólio: [gabrielhuluany.com.br](https://gabrielhuluany.com.br)
 <!--- ⚡ Fun fact: ...-->
 
 <div>
