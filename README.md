@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel 😎
+## Olá! Eu sou o Gabriel 😎
 *Um pouco sobre mim:*
 - Tenho 19 anos
 - Adoro estudar e trabalhar com front-end!
@@ -31,7 +31,9 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-<div style="padding-top: 30px;">
+##
+
+<div>
   <a href="https://www.linkedin.com/in/gabrielhuluany" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://www.hackerrank.com/profile/gabrielhuluany"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielhuluany@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
