@@ -7,6 +7,7 @@
 - 🎓 Técnico em Informática
 - 💻 Ciência da Computação - UAM
 - 📚 Aprendendo React
+- 🔗 Meu portfólio: gabrielhuluany.com.br
 <!--- ⚡ Fun fact: ...-->
 
 <div>
