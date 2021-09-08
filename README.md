@@ -1,13 +1,15 @@
 ### Olá! Eu sou o Gabriel 😎
 *Um pouco sobre mim:*
-- Tenho 19 anos
+- Tenho 19 anos.
 - Adoro estudar e trabalhar com front-end!
-- Já trabalhei como freelancer e aprendi muito com essa experiência
+- A primeira linguagem de programação que aprendi foi C#, em 2018.
+- Já trabalhei como desenvolvedor web full stack freelancer e aprendi muito com essa experiência!
 - 💼 Estagiário de TI no INSS
 - 🎓 Técnico em Informática
 - 💻 Ciência da Computação - UAM
 - 📚 Aprendendo React
 - 🔗 Meu portfólio: [gabrielhuluany.com.br](https://gabrielhuluany.com.br)
+
 <!--- ⚡ Fun fact: ...-->
 
 <div>
