@@ -1,4 +1,5 @@
-## Olá! Eu sou o Gabriel 😎
+# Olá! Eu sou o Gabriel 😎
+### Meu portfólio: [gabrielhuluany.com.br](https://gabrielhuluany.com.br)
 *Um pouco sobre mim:*
 - Tenho 19 anos
 - Adoro estudar e trabalhar com front-end!
@@ -7,7 +8,7 @@
 - 🎓 Técnico em Informática
 - 💻 Ciência da Computação - UAM
 - 📚 Aprendendo React
-- 🔗 Meu portfólio: gabrielhuluany.com.br
+<!--- 🔗 Meu portfólio: [gabrielhuluany.com.br](https://gabrielhuluany.com.br)-->
 <!--- ⚡ Fun fact: ...-->
 
 <div>
@@ -31,7 +32,7 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-##
+#
 
 <div>
   <a href="https://www.linkedin.com/in/gabrielhuluany" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
