@@ -7,7 +7,8 @@
 - 💼 Estagiário de TI no INSS
 - 🎓 Técnico em Informática
 - 💻 Ciência da Computação - UAM
-- 📚 Aprendendo React e Python
+- 📚 Aprendendo React, Python e Arduino
+- 🤖 Meus projetos de Arduino: [tinkercad](https://www.tinkercad.com/users/7faB9etAbwy-gabrielhuluany?category=circuits)
 - 🔗 Meu portfólio: [gabrielhuluany.com.br](https://gabrielhuluany.com.br)
 
 <!--- ⚡ Fun fact: ...-->
