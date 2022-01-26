@@ -1,14 +1,13 @@
-### Olá! Eu sou o Gabriel 😎
+### Olá! Eu sou o Gabriel 😄
 *Um pouco sobre mim:*
 - Tenho 19 anos.
-- Adoro estudar e trabalhar com front-end!
+- Adoro estudar e trabalhar com front-end, mas também curto mexer com back-end!
 - A primeira linguagem de programação que aprendi foi C#, em 2018.
 - 💼 Estagiário de Desenvolvimento de Sistemas no INSS
 - 💼 Desenvolvedor Web Full Stack freelancer
-- 🎓 Técnico em Informática
 - 💻 Ciência da Computação - UAM
-- 📚 Aprendendo React, Python e Arduino
-- 🤖 Meus projetos de Arduino: [tinkercad](https://www.tinkercad.com/users/7faB9etAbwy-gabrielhuluany?category=circuits)
+- 🎓 Técnico em Informática - ETEC
+- 📚 Aprendendo React e Python
 - 🔗 Meu portfólio: [gabrielhuluany.com.br](https://gabrielhuluany.com.br)
 
 <!--- ⚡ Fun fact: ...-->
