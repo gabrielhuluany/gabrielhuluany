@@ -7,7 +7,7 @@
 - 💼 Desenvolvedor Web Full Stack freelancer
 - 💻 Ciência da Computação - UAM
 - 🎓 Técnico em Informática - ETEC
-- 📚 Aprendendo React e Python
+- 📚 Aprendendo ReactJS e Python
 - 🔗 Meu portfólio: [gabrielhuluany.com.br](https://gabrielhuluany.com.br)
 
 <!--- ⚡ Fun fact: ...-->
