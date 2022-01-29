@@ -3,7 +3,7 @@
 - Tenho 19 anos.
 - Adoro estudar e trabalhar com front-end, mas também curto mexer com back-end!
 - A primeira linguagem de programação que aprendi foi C#, em 2018.
-- 💼 Estagiário de Desenvolvimento de Sistemas no INSS
+- 💼 Estagiário de Desenvolvimento de Sistemas
 - 💼 Desenvolvedor Web Full Stack freelancer
 - 💻 Ciência da Computação - UAM
 - 🎓 Técnico em Informática - ETEC
