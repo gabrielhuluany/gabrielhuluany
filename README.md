@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel 😄
 *Um pouco sobre mim:*
-- Tenho 19 anos.
+- Tenho 20 anos.
 - Adoro estudar e trabalhar com front-end, mas também curto mexer com back-end!
 - A primeira linguagem de programação que aprendi foi C#, em 2018.
 - 💼 Estagiário de Desenvolvimento de Sistemas
