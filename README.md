@@ -5,9 +5,8 @@
 - A primeira linguagem de programação que aprendi foi C#, em 2018.
 - 💼 Estagiário de TI no INSS
 - 💻 Ciência da Computação - UAM
-- 🎓 Técnico em Informática - ETEC
-- 📚 Aprendendo ReactJS e Python
-- 🔗 Meu portfólio: [gabrielhuluany.com.br](https://gabrielhuluany.com.br)
+- 📚 Estudando React e Python
+<!--- - 🔗 Meu portfólio: [mask](link)-->
 
 <!--- ⚡ Fun fact: ...-->
 
