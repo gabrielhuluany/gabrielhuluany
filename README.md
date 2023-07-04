@@ -3,7 +3,7 @@
 - Tenho 21 anos.
 - Curto front-end e back-end!
 - A primeira linguagem de programação que aprendi foi C#, em 2018.
-- 💼 Estagiário de TI no INSS
+- 💼 Estagiário de TI na Bemfácil Digital
 - 💻 Ciência da Computação - UAM
 - 📚 Estudando React e Python
 <!-- - 🔗 Meu portfólio: [mask](link)-->
