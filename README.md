@@ -5,7 +5,7 @@
 - A primeira linguagem de programação que aprendi foi C#, em 2018.
 - 💼 Estagiário de TI na [bemfácil digital](https://github.com/bemfacil)
 - 💻 Ciência da Computação - UAM
-<!-- - 📚 Estudando React e Python-->
+- 📚 Meu roadmap de estudos está centrado em Front-End e UX.
 <!-- - 🔗 Meu portfólio: [mask](link)-->
 
 <a href="https://github.com/gabrielhuluany?tab=repositories" target="_blank">
